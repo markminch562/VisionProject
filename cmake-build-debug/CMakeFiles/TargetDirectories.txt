@@ -1,0 +1,3 @@
+/home/plotb/CLionProjects/VisionProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/plotb/CLionProjects/VisionProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/plotb/CLionProjects/VisionProject/cmake-build-debug/CMakeFiles/VisionProject.dir
